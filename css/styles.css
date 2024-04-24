@@ -1,0 +1,97 @@
+body {
+    font-family: "DM Sans", sans-serif;
+    background-color: lightpink;
+  }
+  
+  .c-item {
+    height: 590px;
+  }
+  
+  .c-img {
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  h1 {
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .c-list {
+    height: 100%;
+  }
+  
+  .c-group {
+    max-width: 480px;
+    margin: auto;
+    color: aliceblue;
+    padding-top: 40px;
+  }
+  
+  .check-out {
+    color: lightskyblue;
+  }
+  
+  .sign-in {
+    text-align: center;
+    color: white;
+  }
+  
+  .login {
+    color: white;
+  }
+  
+  .navbar-text,
+  .navbar-brand,
+  .nav-link {
+    color: aliceblue !important;
+  }
+  
+  .c-checkout {
+    color: aliceblue;
+    margin: auto;
+    max-width: 90%;
+  }
+  
+  .new-user {
+    color: aliceblue;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .n-radio {
+    color:aliceblue;
+    max-width: 900px;
+    margin: auto;
+    padding-top: 10px;
+  }
+  
+  .clmn-spc {
+    padding: 10px;
+  }
+  
+  .nice-nice {
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+    max-width: 50%;
+    font-size: 20px;
+    padding-top: 40px;
+  }
+  
+  .bg-color {
+    background-color: black;
+    color: aliceblue;
+  }
+  
+  .opt-color {
+    color: aliceblue !important;
+  }
+  
+  .chk-bg-size {
+    max-width: 90%;
+    margin: auto;
+  }
+
+  
