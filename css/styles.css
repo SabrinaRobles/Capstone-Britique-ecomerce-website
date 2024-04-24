@@ -30,7 +30,8 @@ body {
   }
   
   .check-out {
-    color: lightskyblue;
+    color: rgb(112, 157, 199);
+    background-color: lightpink;
   }
   
   .sign-in {
